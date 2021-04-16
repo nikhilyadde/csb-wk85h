@@ -1,0 +1,20 @@
+{
+  "files": {
+    "main.css": "https://nikhilyadde.github.io/csb-wk85h/static/css/main.62fb9ed6.chunk.css",
+    "main.js": "https://nikhilyadde.github.io/csb-wk85h/static/js/main.b935da79.chunk.js",
+    "main.js.map": "https://nikhilyadde.github.io/csb-wk85h/static/js/main.b935da79.chunk.js.map",
+    "runtime-main.js": "https://nikhilyadde.github.io/csb-wk85h/static/js/runtime-main.523f7a64.js",
+    "runtime-main.js.map": "https://nikhilyadde.github.io/csb-wk85h/static/js/runtime-main.523f7a64.js.map",
+    "static/js/2.00d7f2a1.chunk.js": "https://nikhilyadde.github.io/csb-wk85h/static/js/2.00d7f2a1.chunk.js",
+    "static/js/2.00d7f2a1.chunk.js.map": "https://nikhilyadde.github.io/csb-wk85h/static/js/2.00d7f2a1.chunk.js.map",
+    "index.html": "https://nikhilyadde.github.io/csb-wk85h/index.html",
+    "static/css/main.62fb9ed6.chunk.css.map": "https://nikhilyadde.github.io/csb-wk85h/static/css/main.62fb9ed6.chunk.css.map",
+    "static/js/2.00d7f2a1.chunk.js.LICENSE.txt": "https://nikhilyadde.github.io/csb-wk85h/static/js/2.00d7f2a1.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.523f7a64.js",
+    "static/js/2.00d7f2a1.chunk.js",
+    "static/css/main.62fb9ed6.chunk.css",
+    "static/js/main.b935da79.chunk.js"
+  ]
+}
